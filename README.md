@@ -1,7 +1,7 @@
 # Student Course Registration System (Java + JDBC)
 
-A small *console-based* student-course registration system implemented in Java using JDBC and an embedded H2 database (file-based).  
-This demonstrates: *DAO pattern, SQL schema design, prepared statements, transactions (where required), and simple CLI*.
+A small *console-based* student-course registration system implemented in Java using JDBC and an embedded H2 database .  
+This demonstrates: *DAO pattern, SQL schema design, prepared statements, transactions , and simple CLI*.
 
 ---
 
@@ -18,10 +18,10 @@ This demonstrates: *DAO pattern, SQL schema design, prepared statements, transac
 ## Tech stack
 - Java 17+
 - JDBC
-- H2 Database (embedded, file-based)
+- H2 Database 
 - Maven
 
 ---
 
 ## Project structure
-student-course-registration/ ├── pom.xml ├── src/main/java/registration/... ├── db_schema.sql   # MySQL schema (optional) └── README.md
+student-course-registration/ ├── pom.xml ├── src/main/java/registration/...  └── README.md
